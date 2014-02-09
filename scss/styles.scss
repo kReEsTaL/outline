@@ -3,7 +3,8 @@
 
 @import "partials/_config"; // Necessary to have the proper $legacy-support-for-ie definition
 
-@import "partials/libs";
+@import "compass";
+
 @import "partials/core";
 @import "partials/plugins";
 @import "partials/project";
